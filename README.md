@@ -1,4 +1,4 @@
-# py_bau_cua_tom_ca
+# Bầu Cua Tôm Cá: A Lunar New Year Game
 ## Background
 This is a python-based version of a Vietnamese gambling game, [Bầu Cua Tôm Cá](https://en.wikipedia.org/wiki/Bầu_cua_cá_c%E1%BB%8Dp), that can be played in the command-line. The game is played during Vietnamese Lunar New Year celebrations known as [Tết](https://en.wikipedia.org/wiki/Tết).
 
