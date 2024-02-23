@@ -9,7 +9,7 @@ The game is played in rounds for as long as players have money or want to keep p
 2. A dealer rolls all three dice together. The face-up side of each di determines the winning spaces for the round. If a space's character is not rolled, then that spaces loses the round.
 3. The dealer collects money from losing spaces and pays the players that bet on winning spaces.
 ### Scoring
-When a space wins, the amount that a player wins is determined by the number of dice that show the winning space. If one di shows the winning space, then each player on the winning space gets to keep their bet and is payed 1x their bet amount by the dealer. If two dice show same winning space, then the winners get their money back and are paid 2x their bet amount by the dealer. If all three dice show the same winning space, then the winners keep their bet and are paid 3x their bet amount.
+When a space wins, the amount that a player wins is equal to their bet plus their bet times the number of dice that match their space. If one di shows the winning space, then each player on the winning space gets to keep their bet and is payed 1x their bet amount by the dealer. If two dice show same winning space, then the winners get their money back and are paid 2x their bet amount by the dealer. If all three dice show the same winning space, then the winners keep their bet and are paid 3x their bet amount.
 
 ### Example
 
