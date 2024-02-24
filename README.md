@@ -19,7 +19,7 @@ Four people, Minh, Vy, Long, and Phuong, play play a round of Bầu Cua Tôm Cá
 * Vy and Long each bet 10.000 VND on deer.
 * Phuong bets 50.000 VND on crab.
 
-The dealer rolls three dice and the face-up sides show: deer, crab, crab. The results are as follows:
+The dealer rolls three dice and the face-up sides show: `deer`, `crab`, `crab`. The results are as follows:
 * Minh's space (shrimp) was not rolled so they lose their 20.000 VND.
 * Vy and Long's space (deer) was rolled once. Vy keeps their 10.000 VND and are paid another 10.000 VND by the dealer for a total of 20.000 VND (bet + bet x 1 di). Long also keeps their 10.000 VND wager and is paid 10.000 VND by the dealer.
 * Phuong's space (crab) is rolled twice. Phuong keeps their 50.000 VND wager and is paid 100.000 VND by the dealer for a total of 150.000 VND (bet + bet x 2 di).
