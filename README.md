@@ -4,7 +4,7 @@ This is a python-based version of a Vietnamese gambling game, [Bầu Cua Tôm C�
 ## Rules
 The game is played with three six-sided dice and board or mat with six spaces. Each space on the board has one of six characters: gourd, crab, shrimp, fish, deer or rooster. On each di, each face also shows one of these characters. The objective of the game is to win money by betting on which space's character will be rolled by the dice.
 
-![Photo of Game Mat and Dice](bau-cua-tom-ca.jpg)
+![Photo of Game Mat and Dice](game_mat_and_dice.jpg)
 
 The game is played in rounds for as long as players have money or want to keep playing. In each round the following steps take place:
 1. Each player makes a bet by placing any amount of money on a space. More than one player can bet on a single space.
