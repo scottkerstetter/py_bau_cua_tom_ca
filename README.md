@@ -25,5 +25,5 @@ The dealer rolls three dice and the face-up sides show: deer, crab, crab. The re
 * Phuong's space (crab) is rolled twice. Phuong keeps their 50.000 VND wager and is paid 100.000 VND by the dealer for a total of 150.000 VND (bet + bet x 2 di).
 
 ## References
-[wikipedia.org](https://en.wikipedia.org/wiki/Bầu_cua_cá_c%E1%BB%8Dp)
+[wikipedia.org](https://en.wikipedia.org/wiki/Bầu_cua_cá_c%E1%BB%8Dp)<br/>
 [rgb.vn](https://rgb.vn/bau-cua-tom-ca-the-feast/)
