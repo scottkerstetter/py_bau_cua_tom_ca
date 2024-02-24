@@ -1,5 +1,4 @@
 # Bầu Cua Tôm Cá: A Lunar New Year Game
-## Background
 This is a python-based version of a Vietnamese gambling game, [Bầu Cua Tôm Cá](https://en.wikipedia.org/wiki/Bầu_cua_cá_c%E1%BB%8Dp), that can be played in the command-line. The game is played during Vietnamese Lunar New Year celebrations known as [Tết](https://en.wikipedia.org/wiki/Tết).
 
 ## Rules
@@ -22,5 +21,5 @@ The dealer rolls three dice and the face-up sides show: deer, crab, crab. The re
 * Vy and Long's space (deer) was rolled once. Vy keeps their 10.000 VND and are paid another 10.000 VND by the dealer for a total of 20.000 VND (bet + bet x 1 di). Long also keeps their 10.000 VND wager and is paid 10.000 VND by the dealer.
 * Phuong's space (crab) is rolled twice. Phuong keeps their 50.000 VND wager and is paid 100.000 VND by the dealer for a total of 150.000 VND (bet + bet x 2 di).
 
-# References
+## References
 [wiki](https://en.wikipedia.org/wiki/Bầu_cua_cá_c%E1%BB%8Dp)
