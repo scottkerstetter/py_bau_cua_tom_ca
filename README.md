@@ -26,7 +26,7 @@ The dealer rolls three dice and the face-up sides show: deer, crab, crab. The re
 
 ### Specific To This Version
 There are a couple caveats for playing this version of the game. After starting the script, the user will be prompt for the number of players (not including the dealer) and the type of currency being used. Next, each player will take turns entering their name and amount of money they're playing with. Afterward these initial steps, the game will process as normal with each player taking turns betting on a space and an amount of money. In normal games of Bầu Cua Tôm Cá, a player can bet on multiple spaces each round but in this version of the same a player can only bet on one space each round. After each round the user will be prompted as to whether or not they want to continue playing; enter YES to continue and NO to quit.
-
+<br/><br/><br/>
 Thank for you playing! Chúc mừng năm mới!
 
 ## References
