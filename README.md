@@ -12,9 +12,16 @@ The game is played in rounds for as long as players have money or want to keep p
 When a space wins, the amount that a player wins is equal to their bet plus their bet times the number of dice that match their space. If one di shows the winning space, then each player on the winning space gets to keep their bet and is payed 1x their bet amount by the dealer. The winnings are not divided among players; each player get paid based on how much they individually bet. If two dice show same winning space, then the winners get their money back and are paid 2x their bet amount by the dealer. If all three dice show the same winning space, then the winners keep their bet and are paid 3x their bet amount.
 
 ### Example
+Four people, Minh, Vy, Long, and Phuong, play play a round of Bầu Cua Tôm Cá. Their bets are as follows:
+* Minh bets 20.000 VND on shrimp.
+* Vy and Long each bet 10.000 VND on deer.
+* Phuong bets 50.000 VND on crab.
+The dealer rolls three dice and the face-up sides show: deer, crab, crab.<br/>
+The results are as follows:
+* Minh's space was not rolled so they lost their 10.000 VND.
+* 
 
 
-A dealer, who runs the game, rolls all three dice
 
 <br/><br/>
 picture of dice
