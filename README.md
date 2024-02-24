@@ -15,7 +15,7 @@ When a space wins, the amount that a player wins is equal to their bet plus thei
 Four people, Minh, Vy, Long, and Phuong, play play a round of Bầu Cua Tôm Cá. Their bets are as follows:
 * Minh bets 20.000 VND on shrimp.
 * Vy and Long each bet 10.000 VND on deer.
-* Phuong bets 50.000 VND on crab.
+* Phuong bets 50.000 VND on crab.<br/>
 The dealer rolls three dice and the face-up sides show: deer, crab, crab.<br/>
 The results are as follows:
 * Minh's space was not rolled so they lost their 10.000 VND.
