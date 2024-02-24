@@ -2,7 +2,8 @@
 This is a python-based version of a Vietnamese gambling game, [Bầu Cua Tôm Cá](https://en.wikipedia.org/wiki/Bầu_cua_cá_c%E1%BB%8Dp), that can be played in the command-line. The game is played during Vietnamese Lunar New Year celebrations known as [Tết](https://en.wikipedia.org/wiki/Tết).
 
 ## Rules
-The game is played with three six-sided dice and board or mat with six spaces. Each space on the board has one of six characters: gourd, crab, shrimp, fish, deer or rooster. On each di, each face also shows one of these characters. The objective of the game is to win money by betting on which space's character will be rolled by the dice.<br/>
+The game is played with three six-sided dice and board or mat with six spaces. Each space on the board has one of six characters: gourd, crab, shrimp, fish, deer or rooster. On each di, each face also shows one of these characters. The objective of the game is to win money by betting on which space's character will be rolled by the dice.
+!()
 The game is played in rounds for as long as players have money or want to keep playing. In each round the following steps take place:
 1. Each player makes a bet by placing any amount of money on a space. More than one player can bet on a single space.
 2. A dealer rolls all three dice together. The face-up side of each di determines the winning spaces for the round. If a space's character is not rolled, then that spaces loses the round.
@@ -22,4 +23,5 @@ The dealer rolls three dice and the face-up sides show: deer, crab, crab. The re
 * Phuong's space (crab) is rolled twice. Phuong keeps their 50.000 VND wager and is paid 100.000 VND by the dealer for a total of 150.000 VND (bet + bet x 2 di).
 
 ## References
-[wiki](https://en.wikipedia.org/wiki/Bầu_cua_cá_c%E1%BB%8Dp)
+[wikipedia.org](https://en.wikipedia.org/wiki/Bầu_cua_cá_c%E1%BB%8Dp)
+[rgb.vn](https://rgb.vn/bau-cua-tom-ca-the-feast/)
